@@ -1,12 +1,4 @@
-Yes, you can **remove the license section from the README** if you don’t want to include it.
 
-Here’s the **cleaned-up README.md without the license section**:
-
----
-
-### ✅ Updated `README.md` (No License)
-
-```markdown
 # 🖐️ Sign Language Translator using YOLO Algorithm
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
